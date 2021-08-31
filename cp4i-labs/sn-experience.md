@@ -14,7 +14,7 @@ Get hands on building API and Event driven flows in this day in the life experie
 |-------------------------|------------------------------------------------------------------------------------------------------------|
 | [Lab 1](Lab_4a/ReadMe.md)       | **Build ServiceNow API in minutes** The purpose of this LAB is to show how to retrieve ServiceNow User Records using IBM App Connect Designer on IBM Cloud Pak for Integration. |-------------------------|
 ------------------------------------------------------------------------------------------------------------|
-| [Lab 2](Lab_4b/ReadMe.md)       | **Expose your ServiceNow API in APIC** This lab we will take the API created in lab 4a and expose it in IBM API connect.  APIC is an integrated API management offering, where all of the steps in the API lifecycle, and the actions that surround it, are performed within the offering.
+| [Lab 2](Lab_4b/ReadMe.md)       | **Expose your ServiceNow API in APIC** This lab we will take the API created in lab 1 and expose it in IBM API connect.  APIC is an integrated API management offering, where all of the steps in the API lifecycle, and the actions that surround it, are performed within the offering.
 |-------------------------|------------------------------------------------------------------------------------------------------------|
 | [Lab 3](Lab_4c/ReadMe.md)       | **Build ServiceNow Event Driven flow** The purpose of this LAB is to show how to react to updates to ServiceNow Account Records being created and updated  using IBM App Connect Designer on IBM Cloud Pak for Integration. 
 |-------------------------|------------------------------------------------------------------------------------------------------------|
