@@ -5,7 +5,7 @@ Get hands on building API and Event driven flows in this day in the life experie
 [8/31/2021 10 AM EST](sfdc-831am.md)
 
 ## Pre-Req
-Need to complete [SF-Pre-Lab](https://integrationsuperhero.github.io/prework/SNow-Pre-Lab/SNow-Pre-Lab) before starting this Lab 
+Need to complete [SF-Pre-Lab](https://integrationsuperhero.github.io/prework/SF-Pre-Lab/SF-Pre-Lab) before starting this Lab 
 
 ## Lab Abstracts
 
