@@ -3,7 +3,7 @@
 
 [Return to Lab Guide](sn-experience.md)
 
-|First | Last | Account| Navigator URL| Cluster Console |
+|First Name Initial | Last Name (First 3 Letters) | Account| Navigator URL| Cluster Console |
 |---|-----|------------|---------------------------------------------|------------------------------------------------------------|
 | R | ADA | grievous1  | https://cpd-cp4i.apps.grievous.coc-ibm.com/ | https://console-openshift-console.apps.grievous.coc-ibm.com|
 | B | ALE | grievous2  | https://cpd-cp4i.apps.grievous.coc-ibm.com/ | https://console-openshift-console.apps.grievous.coc-ibm.com|
