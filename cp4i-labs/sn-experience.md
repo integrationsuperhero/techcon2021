@@ -2,6 +2,8 @@
 
 Get hands on building API and Event driven flows in this day in the life experience integrating with ServiceNow. Create no-code integrations using IBM App Connect and expose and manage the APIs created with IBM API Connect. Explore the Cloud Pak for Integraitons Asset  to store, manage, discover, and resuse assets at design-time for improved productivity. 
 
+## Flight Schedule
+[8/31/2021 1 PM EST](sn-831pm.md)
 
 ## Pre-Req
 **Need to complete [SNow-Pre-Lab](https://integrationsuperhero.github.io/prework/SNow-Pre-Lab/SNow-Pre-Lab) before starting this Lab** 
