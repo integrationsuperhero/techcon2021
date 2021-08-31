@@ -1,5 +1,5 @@
 ## Multi-Style Integration with IBM Cloud Pak for Integration the Salesforce Experience
-Get hands on building API and Event driven flows in this day in the life experience integrating with Salesforce. Create no-code integrations using IBM App Connect and expose and manage the APIs created with IBM API Connect. Explore the Cloud Pak for Integraitons Asset  to store, manage, discover, and resuse assets at design-time for improved productivity.
+Get hands on building API and Event driven flows in this day in the life experience integrating with Salesforce. Create no-code integrations using IBM App Connect and expose and manage the APIs created with IBM API Connect. Explore the Cloud Pak for Integraitons Asset  to store, manage, discover, and resuse assets at design-time for improved productivity.  
 
 ## Flight Schedule
 [8/31/2021 10 AM EST](sfdc-831am.md)
