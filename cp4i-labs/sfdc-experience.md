@@ -2,7 +2,7 @@
 Get hands on building API and Event driven flows in this day in the life experience integrating with Salesforce. Create no-code integrations using IBM App Connect and expose and manage the APIs created with IBM API Connect. Explore the Cloud Pak for Integraitons Asset  to store, manage, discover, and resuse assets at design-time for improved productivity.  
 
 ## Flight Schedule
-[8/31/2021 10 AM EST](sfdc-831am.md)
+[9/1/2021 1 PM EST](sfdc-91pm.md)
 
 ## Pre-Req
 Need to complete [SF-Pre-Lab https://integrationsuperhero.github.io/prework/SF-Pre-Lab/SF-Pre-Lab](https://integrationsuperhero.github.io/prework/SF-Pre-Lab/SF-Pre-Lab) before starting this Lab 
