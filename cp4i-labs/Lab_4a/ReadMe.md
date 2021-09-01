@@ -72,7 +72,7 @@ From the Operations drop-down menu, select Add a Custom Operation. Here we will 
 * **Note**: You can optionally set a description for your individual API operation. 
     * Display Name: **Retrieve Accounts**
     * HTTP Verb: **GET** 
-    * Operation Name: **accounts**
+    * Operation Name: **users**
         * Note: The operation name will be a part of your API Endpoint URL and is therefore consumer-facing.
     * Request body: **ServiceNowRetrieve**
     * Response body: **ServiceNowRetrieve**
