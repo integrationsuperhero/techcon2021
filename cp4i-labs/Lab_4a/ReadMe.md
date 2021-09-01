@@ -22,7 +22,7 @@ The purpose of this LAB is to show how to retrieve ServiceNow Records using IBM 
 When prompted to log in to CP4I  use the username and password provided to you for this lab.   
 
 **Pre-Lab: Gathering your ServiceNow Credentials**
-For this lab, you will need to collect your Salesforce account details: Username, Password, Client Secret, and Client ID. You can learn how to obtain these values from this link: https://developer.ibm.com/integration/docs/app-connect/how-to-guides-for-apps/use-ibm-app-connect-salesforce/ 
+For this lab, you will need to collect your ServiceNow account details: Username, Password, Client Secret, and Client ID. You can learn how to obtain these values from this link: https://integrationsuperhero.github.io/prework/SNow-Pre-Lab/SNow-Pre-Lab
 
 # 2. Create a Designer Flow in CP4I to Call ServiceNow  <a name="create_a_designer_flow_in_cp4i_to_call_servicenow"></a>
 
@@ -74,8 +74,8 @@ From the Operations drop-down menu, select Add a Custom Operation. Here we will 
     * HTTP Verb: **GET** 
     * Operation Name: **accounts**
         * Note: The operation name will be a part of your API Endpoint URL and is therefore consumer-facing.
-    * Request body: **SalesforceRetrieve**
-    * Response body: **SalesforceRetrieve**
+    * Request body: **ServiceNowRetrieve**
+    * Response body: **ServiceNowRetrieve**
 
 14\. After customizing your API operation, the details should match the image below.
 
@@ -105,7 +105,7 @@ You may see an error message pop-up for now just close this.
 
 In our example, we will retrieve the first 2 ServiceNow system users records. In order to do this, we can set the Maximum number of items to retrieve field to 2.  And then select, Process 2 item from the collection in the radio button options. As you can see there is also some error handling options provided by App Connect Designer below.
 
-A helpful feature offered by the Smart Connectors is the **“Try this action”** . Clicking this button will allow you to test your ServiceNow connection. If your credentials and operations are configured correctly you should be able to pull records from Salesforce. 
+A helpful feature offered by the Smart Connectors is the **“Try this action”** . Clicking this button will allow you to test your ServiceNow connection. If your credentials and operations are configured correctly you should be able to pull records from ServiceNow. 
 
 ![alt text][pic14]
 
