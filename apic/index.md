@@ -1,13 +1,3 @@
----
-title: APIC DevJam
----
-import ArticleDetails from '../../gatsby-theme-carbon/components/ArticleDetails'
-
-
-**Updated By**
-<ArticleDetails name="Chris Phillips, Arthur Lin, Maruthi KOILOTH, Luis Jimenez Matilla, Marica Alesina and Vivin Abraham" lastUpdated="July 2021" readTimeMinutes="240"/>
-APIC Version - 10.0.3
-
 ### **APIC Dev Jam Lab Instructions** ###
 
 [Lab 1 : Create and Secure an API to Proxy an Existing REST Web service](/APICDevJam/Lab1)
@@ -24,7 +14,7 @@ APIC Version - 10.0.3
 
 [Lab 7: The Consumer Experience](/APICDevJam/Lab7)  
 
-<!--[Lab 8: Create and test GraphQL Proxy API](/APICDevJam/Lab8) -->
+[Lab 8: Create and test GraphQL Proxy API](/APICDevJam/Lab8)
 
 ### **APIC Dev Jam Lab Resources** ###
 
@@ -34,7 +24,3 @@ APIC Version - 10.0.3
 
 [calculate.wsdl](/APICDevJam/resources/calculate.wsdl)  
 
-References:
-
-
-<ArticleDetails name="Ravi Katikala" lastUpdated="October 2020"/>
