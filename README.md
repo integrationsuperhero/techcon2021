@@ -46,4 +46,6 @@ helps to solve..**
 | [CP4I - Salesforce Experience](cp4i-labs/sfdc-experience)         | Get hands on building API and Event driven flows in this day in the life experience integrating with Salesforce. Create no-code integrations using IBM App Connect and expose and manage the APIs created with IBM API Connect. Explore the Cloud Pak for Integraitons Asset  to store, manage, discover, and resuse assets at design-time for improved productivity.  | 
 |---------------------------------------|-----------------------------------------------------------------------------|     
 | [CP4I - ServiceNow Experience](cp4i-labs/sn-experience)          | Get hands on building API and Event driven flows in this day in the life experience integrating with ServiceNow. Create no-code integrations using IBM App Connect and expose and manage the APIs created with IBM API Connect. Explore the Cloud Pak for Integraitons Asset  to store, manage, discover, and resuse assets at design-time for improved productivity.  |  
+      |---------------------------------------|-----------------------------------------------------------------------------|     
+| [App Connect Kafka Designer Event flow](cp4i-labs/Lab_8)          | Get hands on connecting AppConnect and Kafka [Flight Schedule](92pm.md)  |  
       
